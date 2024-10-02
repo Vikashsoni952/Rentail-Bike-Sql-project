@@ -1,6 +1,3 @@
-Here’s a detailed README for the **Rental Bike PostgreSQL Project** based on the SQL script provided:
-
----
 
 # Rental Bike PostgreSQL Project
 
