@@ -194,24 +194,8 @@ GROUP BY b.bike_id;
 3. **Revenue Analysis**: Calculate total revenue, average rental duration, and identify top-paying customers.
 4. **Customer Insights**: Identify the most active customers based on rental frequency and total spending.
 
-## Setup Instructions
 
-### Prerequisites:
-- PostgreSQL installed on your machine.
-- A SQL client or terminal access to execute SQL queries (e.g., pgAdmin, DBeaver).
 
-### Database Setup:
-1. Create a new PostgreSQL database:
-    ```bash
-    createdb rental_bike
-    ```
-
-2. Load the SQL script into the database:
-    ```bash
-    psql -d rental_bike -f rental_bike.sql
-    ```
-
-3. Run SQL queries using your preferred SQL client or via the command line.
 
 ## Conclusion
 
